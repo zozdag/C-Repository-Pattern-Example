@@ -1,0 +1,13 @@
+C:\Users\zozdag\Desktop\RepositoryPatternProj\RepositoryPatternProj\bin\Debug\netcoreapp3.1\RepositoryPatternProj.exe
+C:\Users\zozdag\Desktop\RepositoryPatternProj\RepositoryPatternProj\bin\Debug\netcoreapp3.1\RepositoryPatternProj.deps.json
+C:\Users\zozdag\Desktop\RepositoryPatternProj\RepositoryPatternProj\bin\Debug\netcoreapp3.1\RepositoryPatternProj.runtimeconfig.json
+C:\Users\zozdag\Desktop\RepositoryPatternProj\RepositoryPatternProj\bin\Debug\netcoreapp3.1\RepositoryPatternProj.runtimeconfig.dev.json
+C:\Users\zozdag\Desktop\RepositoryPatternProj\RepositoryPatternProj\bin\Debug\netcoreapp3.1\RepositoryPatternProj.dll
+C:\Users\zozdag\Desktop\RepositoryPatternProj\RepositoryPatternProj\bin\Debug\netcoreapp3.1\RepositoryPatternProj.pdb
+C:\Users\zozdag\Desktop\RepositoryPatternProj\RepositoryPatternProj\obj\Debug\netcoreapp3.1\RepositoryPatternProj.csprojAssemblyReference.cache
+C:\Users\zozdag\Desktop\RepositoryPatternProj\RepositoryPatternProj\obj\Debug\netcoreapp3.1\RepositoryPatternProj.AssemblyInfoInputs.cache
+C:\Users\zozdag\Desktop\RepositoryPatternProj\RepositoryPatternProj\obj\Debug\netcoreapp3.1\RepositoryPatternProj.AssemblyInfo.cs
+C:\Users\zozdag\Desktop\RepositoryPatternProj\RepositoryPatternProj\obj\Debug\netcoreapp3.1\RepositoryPatternProj.csproj.CoreCompileInputs.cache
+C:\Users\zozdag\Desktop\RepositoryPatternProj\RepositoryPatternProj\obj\Debug\netcoreapp3.1\RepositoryPatternProj.dll
+C:\Users\zozdag\Desktop\RepositoryPatternProj\RepositoryPatternProj\obj\Debug\netcoreapp3.1\RepositoryPatternProj.pdb
+C:\Users\zozdag\Desktop\RepositoryPatternProj\RepositoryPatternProj\obj\Debug\netcoreapp3.1\RepositoryPatternProj.genruntimeconfig.cache
